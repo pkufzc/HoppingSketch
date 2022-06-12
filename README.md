@@ -16,6 +16,6 @@ Hop Basic Sketch: Baseline for HoppingSketch
 * hpbsc_cu - CU sketch  
 
 hopping - HoppingSketch (Our Algorithm)  
-pbf - Persistent Bloom Filter & Persistnet CM&Count&CU sketch (PCM, PC, PCU in paper)
+pbf - Persistent Bloom Filter & Persistnet CM&Count&CU sketch (PCM, PC, PCU in paper)  
 test - Test functions  
 utils - Bitset & Hashmap  
